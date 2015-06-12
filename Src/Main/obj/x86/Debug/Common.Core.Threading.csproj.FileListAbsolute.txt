@@ -1,0 +1,4 @@
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Threading\build\v1.1\bin\x86\debug\USC.GISResearchLab.Common.Core.Threading.dll
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Threading\build\v1.1\bin\x86\debug\USC.GISResearchLab.Common.Core.Threading.pdb
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Threading\src\obj\x86\Debug\USC.GISResearchLab.Common.Core.Threading.dll
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Threading\src\obj\x86\Debug\USC.GISResearchLab.Common.Core.Threading.pdb

@@ -1,0 +1,9 @@
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Threading\build\v1.1\bin\AnyCPU\debug\USC.GISResearchLab.Common.Core.Threading.dll
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Threading\build\v1.1\bin\AnyCPU\debug\USC.GISResearchLab.Common.Core.Threading.pdb
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Threading\src\obj\Debug\USC.GISResearchLab.Common.Core.Threading.dll
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Threading\src\obj\Debug\USC.GISResearchLab.Common.Core.Threading.pdb
+C:\Dev\VS2008DotNetDevelopment\USC\GISResearchLab\Common\Core.Threading\src\obj\Debug\Common.Core.Threading.csprojResolveAssemblyReference.cache
+C:\DevBuild\Tamu\GeoInnovation\Common\Core\Threading\build\1.0.0\debug\Tamu.GeoInnovation.Common.Core.Threading.dll
+C:\DevBuild\Tamu\GeoInnovation\Common\Core\Threading\build\1.0.0\debug\Tamu.GeoInnovation.Common.Core.Threading.pdb
+C:\DevSource\Tamu\GeoInnovation\Common\Core\Threading\Src\Main\obj\Debug\Tamu.GeoInnovation.Common.Core.Threading.dll
+C:\DevSource\Tamu\GeoInnovation\Common\Core\Threading\Src\Main\obj\Debug\Tamu.GeoInnovation.Common.Core.Threading.pdb
