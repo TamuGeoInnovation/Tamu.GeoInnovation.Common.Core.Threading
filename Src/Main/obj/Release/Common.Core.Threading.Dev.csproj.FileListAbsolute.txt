@@ -1,4 +1,4 @@
-C:\DevSource\Tamu\GeoInnovation\Common.Core.Threading\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Core.Threading.dll
-C:\DevSource\Tamu\GeoInnovation\Common.Core.Threading\Src\Main\obj\Release\Tamu.GeoInnovation.Common.Core.Threading.dll
 D:\DevSource\Tamu\GeoInnovation\Common.Core.Threading\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Core.Threading.dll
 D:\DevSource\Tamu\GeoInnovation\Common.Core.Threading\Src\Main\obj\Release\Tamu.GeoInnovation.Common.Core.Threading.dll
+C:\DevSource\Tamu\GeoInnovation\Common.Core.Threading\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Core.Threading.dll
+C:\DevSource\Tamu\GeoInnovation\Common.Core.Threading\Src\Main\obj\Release\Tamu.GeoInnovation.Common.Core.Threading.dll
