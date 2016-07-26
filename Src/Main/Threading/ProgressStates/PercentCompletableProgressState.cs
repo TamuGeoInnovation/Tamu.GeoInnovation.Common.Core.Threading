@@ -8,6 +8,8 @@ namespace USC.GISResearchLab.Common.Threading.ProgressStates
     {
         #region Properties
 
+        public string CurrentFile { get; set; }
+
         public bool StartTimeSet { get; set; }
         public DateTime StartTime { get; set; }
         public ArrayList RecordsPerSecondList { get; set; }
