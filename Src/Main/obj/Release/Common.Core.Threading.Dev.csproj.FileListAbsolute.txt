@@ -6,3 +6,6 @@ C:\DevSource\Tamu\GeoInnovation\Common.Core.Threading\build\1.0.0\AnyCPU\release
 C:\DevSource\Tamu\GeoInnovation\Common.Core.Threading\build\1.0.0\AnyCPU\release\SqlServerTypes\x86\SqlServerSpatial110.dll
 C:\DevSource\Tamu\GeoInnovation\Common.Core.Threading\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Core.Threading.dll
 C:\DevSource\Tamu\GeoInnovation\Common.Core.Threading\Src\Main\obj\Release\Tamu.GeoInnovation.Common.Core.Threading.dll
+C:\DevSource\TAMU\GeoInnovation\Common.Core.Threading\Src\Main\obj\Release\Common.Core.Threading.Dev.csprojAssemblyReference.cache
+C:\DevSource\TAMU\GeoInnovation\Common.Core.Threading\Src\Main\obj\Release\Common.Core.Threading.Dev.csproj.CoreCompileInputs.cache
+C:\DevSource\TAMU\GeoInnovation\Common.Core.Threading\Src\Main\obj\Release\Common.Core.Threading.Dev.csproj.CopyComplete
