@@ -194,7 +194,7 @@ namespace USC.GISResearchLab.Common.Threading.ProgressStates
 
         public double PercentCompleted
         {
-            get 
+            get
             {
                 double ret = 0;
                 if (Completed >= 0 && Total > 0)
@@ -218,7 +218,7 @@ namespace USC.GISResearchLab.Common.Threading.ProgressStates
             }
         }
 
-        
+
 
         #endregion
 

@@ -13,7 +13,7 @@ namespace USC.GISResearchLab.Common.Core.Threading.ThreadPoolWaits
     //tpw.QueueUserWorkItem(new WaitCallback(DoSomething3));
     //tpw.WaitOne();
 
-    public class ThreadPoolWait: IDisposable
+    public class ThreadPoolWait : IDisposable
     {
         private int _remainingWorkItems = 1;
         private ManualResetEvent _done = new ManualResetEvent(false);

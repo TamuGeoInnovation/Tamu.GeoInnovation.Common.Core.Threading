@@ -23,7 +23,7 @@ namespace USC.GISResearchLab.Common.Threading.ProgressStates
     {
         #region Properties
 
-        
+
         public string StatusString
         {
             get

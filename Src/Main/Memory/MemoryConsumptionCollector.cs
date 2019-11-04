@@ -49,8 +49,8 @@ namespace USC.GISResearchLab.Common.Core.Utils.Memory
             forceFullCollection = ForceFullCollection;
             intervalMiliSecond = IntervalMiliSecond;
             label = string.Empty;
-            thread = new Thread(new ThreadStart(this.ThreadJob)); 
-            thread.Priority = ThreadPriority.BelowNormal;           
+            thread = new Thread(new ThreadStart(this.ThreadJob));
+            thread.Priority = ThreadPriority.BelowNormal;
         }
 
         public void StartAsync()
@@ -70,7 +70,7 @@ namespace USC.GISResearchLab.Common.Core.Utils.Memory
             {
                 lock (this)
                 {
-                    collection.Add(new MemoryConsumptionItem(DateTime.Now, label, GC.GetTotalMemory(forceFullCollection)));                    
+                    collection.Add(new MemoryConsumptionItem(DateTime.Now, label, GC.GetTotalMemory(forceFullCollection)));
                 }
                 Thread.Sleep(intervalMiliSecond);
             }

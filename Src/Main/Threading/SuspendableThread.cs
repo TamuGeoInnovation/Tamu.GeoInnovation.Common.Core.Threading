@@ -31,7 +31,7 @@ namespace USC.GISResearchLab.Common.Threading
         }
 
         protected abstract void OnDoWork();
-        
+
         #region Protected methods
 
         protected Boolean SuspendIfNeeded()
@@ -82,7 +82,7 @@ namespace USC.GISResearchLab.Common.Threading
                 _Thread.Join();
             }
         }
-        
+
         public Boolean Join(Int32 milliseconds)
         {
             if (_Thread != null)
@@ -91,7 +91,7 @@ namespace USC.GISResearchLab.Common.Threading
             }
             return true;
         }
-        
+
         /// <remarks>Not supported in .NET Compact Framework</remarks>
         public Boolean Join(TimeSpan timeSpan)
         {

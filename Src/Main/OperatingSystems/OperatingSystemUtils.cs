@@ -55,7 +55,8 @@ namespace USC.GISResearchLab.Common.Core.Utils.OperatingSystems
                         case 6:
                             ret = "Windows Vista";
                             break;
-                    } break;
+                    }
+                    break;
             }
 
             return ret;

@@ -2,7 +2,7 @@ using System;
 
 namespace USC.GISResearchLab.Common.Threading.ProgressStates.Interfaces
 {
-    
+
     public interface IExceptionableProgressState : IMessageableProgressState
     {
         #region Properties
@@ -16,6 +16,6 @@ namespace USC.GISResearchLab.Common.Threading.ProgressStates.Interfaces
 
         #endregion
 
-       
+
     }
 }

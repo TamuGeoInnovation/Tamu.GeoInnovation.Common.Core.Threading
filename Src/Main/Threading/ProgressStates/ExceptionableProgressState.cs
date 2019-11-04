@@ -5,7 +5,7 @@ using USC.GISResearchLab.Common.Threading.ProgressStates.Interfaces;
 namespace USC.GISResearchLab.Common.Threading.ProgressStates
 {
     public enum ExceptionFatalityType { Unknown, NonFatal, Fatal };
-    public enum ExceptionOccuranceType { Unknown, Unique, Repeated};
+    public enum ExceptionOccuranceType { Unknown, Unique, Repeated };
 
     public class ExceptionableProgressState : MessageableProgressState, IExceptionableProgressState
     {
